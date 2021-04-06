@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+THIS IS A REACT PROJET, I FOLLOWED A TUTORIAL ON YOUTUBE, I'M LEARNING USING REACT SO HERE A SIMPLE Increment and decrement actions , with some state management using redux : THE TUTO : https://www.youtube.com/watch?v=CVpUuw9XSjY&ab_channel=DevEd
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
